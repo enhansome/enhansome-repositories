@@ -1,7 +1,1962 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Public-Apis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54346799,
+                "language": "Python",
+                "last_commit": "2026-08-19T21:44:19Z",
+                "owner": "public-apis",
+                "repo": "public-apis",
+                "stars": 469639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54346799,
+                "language": "Python",
+                "last_commit": "2026-08-19T21:44:19Z",
+                "owner": "public-apis",
+                "repo": "public-apis",
+                "stars": 469639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GraphQL-Apis",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74040767,
+                "language": null,
+                "last_commit": "2024-09-26T16:56:07Z",
+                "owner": "APIs-guru",
+                "repo": "graphql-apis",
+                "stars": 4691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 54346799,
+                "language": "Python",
+                "last_commit": "2026-08-19T21:44:19Z",
+                "owner": "public-apis",
+                "repo": "public-apis",
+                "stars": 469639
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "API"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Machine Learning",
+              "description": "A curated list of awesome Machine Learning frameworks, libraries and software CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21872392,
+                "language": "Python",
+                "last_commit": "2026-08-21T10:11:51Z",
+                "owner": "josephmisiti",
+                "repo": "awesome-machine-learning",
+                "stars": 74142
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "handson-ml",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164554832,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-19T23:02:20Z",
+                "owner": "ageron",
+                "repo": "handson-ml2",
+                "stars": 29953
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 164554832,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-05-19T23:02:20Z",
+                "owner": "ageron",
+                "repo": "handson-ml2",
+                "stars": 29953
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Artificial Intelligence"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Awesome",
+              "description": "😎 Awesome lists about all kinds of interesting topics CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21737465,
+                "language": null,
+                "last_commit": "2026-08-21T12:39:13Z",
+                "owner": "sindresorhus",
+                "repo": "awesome",
+                "stars": 499519
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesomeness",
+              "description": "A curated list of awesome awesomeness CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21600440,
+                "language": "Ruby",
+                "last_commit": "2024-06-02T22:46:41Z",
+                "owner": "bayandin",
+                "repo": "awesome-awesomeness",
+                "stars": 33620
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Awesome"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Free Programming Books",
+              "description": ":books: Freely available programming books CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13491895,
+                "language": "Python",
+                "last_commit": "2026-08-18T14:16:15Z",
+                "owner": "EbookFoundation",
+                "repo": "free-programming-books",
+                "stars": 395135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GoBooks",
+              "description": "List of Golang books CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35093606,
+                "language": "Go",
+                "last_commit": "2026-07-13T16:08:02Z",
+                "owner": "dariubs",
+                "repo": "GoBooks",
+                "stars": 19633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": "📚 List of books to master JavaScript Development 🚀 No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44775983,
+                "language": null,
+                "last_commit": "2021-04-27T13:17:45Z",
+                "owner": "javascript-society",
+                "repo": "javascript-path",
+                "stars": 3369
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Mind Expanding Books",
+              "description": "📚 Books everyone should read CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36554250,
+                "language": "JavaScript",
+                "last_commit": "2024-11-09T17:06:27Z",
+                "owner": "hackerkid",
+                "repo": "Mind-Expanding-Books",
+                "stars": 14180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python Books",
+              "description": "📚 Directory of Python books CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55897437,
+                "language": null,
+                "last_commit": "2025-07-17T12:26:40Z",
+                "owner": "junnplus",
+                "repo": "awesome-python-books",
+                "stars": 4289
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TypeScript Books",
+              "description": ":books: The definitive guide to TypeScript and possibly the best TypeScript book 📖. Free and Open Source 🌹 CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32623292,
+                "language": "TypeScript",
+                "last_commit": "2024-06-29T11:46:59Z",
+                "owner": "basarat",
+                "repo": "typescript-book",
+                "stars": 21552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "frontend-dev-bookmarks",
+              "description": ":books: Manually curated collection of resources for frontend web developers. CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10865436,
+                "language": null,
+                "last_commit": "2024-05-21T10:56:58Z",
+                "owner": "dypsilon",
+                "repo": "frontend-dev-bookmarks",
+                "stars": 47421
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Books"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Become A Full Stack Web Developer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85225942,
+                "language": null,
+                "last_commit": "2024-06-18T08:33:46Z",
+                "owner": "bmorelli25",
+                "repo": "Become-A-Full-Stack-Web-Developer",
+                "stars": 18265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85225942,
+                "language": null,
+                "last_commit": "2024-06-18T08:33:46Z",
+                "owner": "bmorelli25",
+                "repo": "Become-A-Full-Stack-Web-Developer",
+                "stars": 18265
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Clean Code JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74791366,
+                "language": "JavaScript",
+                "last_commit": "2024-07-29T07:24:37Z",
+                "owner": "ryanmcdermott",
+                "repo": "clean-code-javascript",
+                "stars": 94766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74791366,
+                "language": "JavaScript",
+                "last_commit": "2024-07-29T07:24:37Z",
+                "owner": "ryanmcdermott",
+                "repo": "clean-code-javascript",
+                "stars": 94766
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Coding Interview University",
+              "description": "A complete computer science study plan to become a software engineer. CC-BY-SA-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 60493101,
+                "language": null,
+                "last_commit": "2025-08-28T14:42:47Z",
+                "owner": "jwasham",
+                "repo": "coding-interview-university",
+                "stars": 359620
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Computer Science (OSSU)",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19415064,
+                "language": "HTML",
+                "last_commit": "2026-07-14T05:38:25Z",
+                "owner": "ossu",
+                "repo": "computer-science",
+                "stars": 208379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19415064,
+                "language": "HTML",
+                "last_commit": "2026-07-14T05:38:25Z",
+                "owner": "ossu",
+                "repo": "computer-science",
+                "stars": 208379
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CS Courses",
+              "description": "📚 List of awesome university courses for learning Computer Science! No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26689598,
+                "language": null,
+                "last_commit": "2023-05-04T12:49:34Z",
+                "owner": "prakhar1989",
+                "repo": "awesome-courses",
+                "stars": 70634
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Developer Roadmap",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85077558,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T14:35:38Z",
+                "owner": "nilbuild",
+                "repo": "developer-roadmap",
+                "stars": 365300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Custom",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85077558,
+                "language": "TypeScript",
+                "last_commit": "2026-08-21T14:35:38Z",
+                "owner": "nilbuild",
+                "repo": "developer-roadmap",
+                "stars": 365300
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Easy Application",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49084741,
+                "language": null,
+                "last_commit": "2024-02-09T20:29:54Z",
+                "owner": "j-delaney",
+                "repo": "easy-application",
+                "stars": 7904
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 49084741,
+                "language": null,
+                "last_commit": "2024-02-09T20:29:54Z",
+                "owner": "j-delaney",
+                "repo": "easy-application",
+                "stars": 7904
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FrontEnd Developer Interview Questions",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3402537,
+                "language": "Nunjucks",
+                "last_commit": "2026-06-16T23:06:47Z",
+                "owner": "h5bp",
+                "repo": "Front-end-Developer-Interview-Questions",
+                "stars": 60871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3402537,
+                "language": "Nunjucks",
+                "last_commit": "2026-06-16T23:06:47Z",
+                "owner": "h5bp",
+                "repo": "Front-end-Developer-Interview-Questions",
+                "stars": 60871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hiring Without Whiteboards",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85031442,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T02:32:28Z",
+                "owner": "poteto",
+                "repo": "hiring-without-whiteboards",
+                "stars": 51489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85031442,
+                "language": "JavaScript",
+                "last_commit": "2026-08-24T02:32:28Z",
+                "owner": "poteto",
+                "repo": "hiring-without-whiteboards",
+                "stars": 51489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Interview This",
+              "description": "An open source list of developer questions to ask prospective employers CC BY-SA 3.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9925600,
+                "language": null,
+                "last_commit": "2022-08-28T03:44:01Z",
+                "owner": "Twipped",
+                "repo": "InterviewThis",
+                "stars": 6904
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript Algorithms",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126577260,
+                "language": "JavaScript",
+                "last_commit": "2026-07-26T02:43:08Z",
+                "owner": "trekhleb",
+                "repo": "javascript-algorithms",
+                "stars": 196546
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 126577260,
+                "language": "JavaScript",
+                "last_commit": "2026-07-26T02:43:08Z",
+                "owner": "trekhleb",
+                "repo": "javascript-algorithms",
+                "stars": 196546
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Leetcode Patterns",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163639063,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T19:59:37Z",
+                "owner": "seanprashad",
+                "repo": "leetcode-patterns",
+                "stars": 13670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 163639063,
+                "language": "TypeScript",
+                "last_commit": "2026-08-23T19:59:37Z",
+                "owner": "seanprashad",
+                "repo": "leetcode-patterns",
+                "stars": 13670
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Career"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ACM-ICPC Algorithms",
+              "description": "Algorithms used in Competitive Programming No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107818213,
+                "language": "C++",
+                "last_commit": "2022-07-04T07:38:09Z",
+                "owner": "matthewsamuel95",
+                "repo": "ACM-ICPC-Algorithms",
+                "stars": 2307
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Awesome Competitive Programming",
+              "description": "A curated list of awesome Competitive Programming, Algorithm and Data Structure resources CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46572574,
+                "language": null,
+                "last_commit": "2024-12-08T09:40:58Z",
+                "owner": "lnishan",
+                "repo": "awesome-competitive-programming",
+                "stars": 14137
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Competitive Code",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300819537,
+                "language": "C++",
+                "last_commit": "2022-12-09T04:34:24Z",
+                "owner": "Vishruth-S",
+                "repo": "CompetitiveCode",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 300819537,
+                "language": "C++",
+                "last_commit": "2022-12-09T04:34:24Z",
+                "owner": "Vishruth-S",
+                "repo": "CompetitiveCode",
+                "stars": 173
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Competitive Programming Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286448779,
+                "language": null,
+                "last_commit": "2024-06-28T09:27:23Z",
+                "owner": "kunal-kushwaha",
+                "repo": "Competitive-Programming-Resources",
+                "stars": 3901
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 286448779,
+                "language": null,
+                "last_commit": "2024-06-28T09:27:23Z",
+                "owner": "kunal-kushwaha",
+                "repo": "Competitive-Programming-Resources",
+                "stars": 3901
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Competitive Programming"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Async-JavaScript",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154005068,
+                "language": "HTML",
+                "last_commit": "2018-10-31T15:43:38Z",
+                "owner": "frontarm",
+                "repo": "async-javascript-cheatsheet",
+                "stars": 1929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 154005068,
+                "language": "HTML",
+                "last_commit": "2018-10-31T15:43:38Z",
+                "owner": "frontarm",
+                "repo": "async-javascript-cheatsheet",
+                "stars": 1929
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C++",
+              "description": "Modern C++ Cheatsheet No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66033005,
+                "language": "C++",
+                "last_commit": "2023-12-15T08:48:20Z",
+                "owner": "mortennobel",
+                "repo": "cpp-cheatsheet",
+                "stars": 3557
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Data Science",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162608338,
+                "language": null,
+                "last_commit": "2024-07-18T03:39:29Z",
+                "owner": "FavioVazquez",
+                "repo": "ds-cheatsheets",
+                "stars": 16329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 162608338,
+                "language": null,
+                "last_commit": "2024-07-18T03:39:29Z",
+                "owner": "FavioVazquez",
+                "repo": "ds-cheatsheets",
+                "stars": 16329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101122425,
+                "language": null,
+                "last_commit": "2026-02-19T11:33:06Z",
+                "owner": "eon01",
+                "repo": "DockerCheatSheet",
+                "stars": 3945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 101122425,
+                "language": null,
+                "last_commit": "2026-02-19T11:33:06Z",
+                "owner": "eon01",
+                "repo": "DockerCheatSheet",
+                "stars": 3945
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Emoji",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85325902,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T00:15:36Z",
+                "owner": "ikatyang",
+                "repo": "emoji-cheat-sheet",
+                "stars": 13797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85325902,
+                "language": "TypeScript",
+                "last_commit": "2026-08-24T00:15:36Z",
+                "owner": "ikatyang",
+                "repo": "emoji-cheat-sheet",
+                "stars": 13797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Git and GitHub",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18708860,
+                "language": null,
+                "last_commit": "2024-04-15T20:15:56Z",
+                "owner": "tiimgreen",
+                "repo": "github-cheat-sheet",
+                "stars": 58695
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18708860,
+                "language": null,
+                "last_commit": "2024-04-15T20:15:56Z",
+                "owner": "tiimgreen",
+                "repo": "github-cheat-sheet",
+                "stars": 58695
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": "Comprehensive Python Cheatsheet No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118861276,
+                "language": "Python",
+                "last_commit": "2026-07-29T14:56:37Z",
+                "owner": "gto76",
+                "repo": "python-cheatsheet",
+                "stars": 38636
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vim",
+              "description": "Shortcuts that will help you to become an advance VIM user. CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 364817820,
+                "language": null,
+                "last_commit": "2021-05-11T09:21:39Z",
+                "owner": "pawelborkar",
+                "repo": "vim-cheatsheet",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CSS",
+              "description": "CSS Cheat Sheet - A reference for CSS goodness No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21939731,
+                "language": null,
+                "last_commit": "2025-10-09T23:19:01Z",
+                "owner": "AdamMarsden",
+                "repo": "css-cheat-sheet",
+                "stars": 406
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "CheatSheets"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AWS",
+              "description": "A curated list of awesome Amazon Web Services (AWS) libraries, open source repos, guides, blogs, and other resources. Featuring the Fiery Meter of AWSome. CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44104712,
+                "language": "Python",
+                "last_commit": "2024-03-12T09:29:54Z",
+                "owner": "donnemartin",
+                "repo": "awesome-aws",
+                "stars": 14127
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Cloud"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "GCP Training",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56459948,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-20T15:57:21Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "training-data-analyst",
+                "stars": 8619
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Apache-2.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56459948,
+                "language": "Jupyter Notebook",
+                "last_commit": "2026-08-20T15:57:21Z",
+                "owner": "GoogleCloudPlatform",
+                "repo": "training-data-analyst",
+                "stars": 8619
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Courses & Certifications"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Beautiful Docs",
+              "description": "Pointers to useful, well-written, and otherwise beautiful documentation. No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 3105906,
+                "language": null,
+                "last_commit": "2026-08-19T01:58:02Z",
+                "owner": "matheusfelipeog",
+                "repo": "beautiful-docs",
+                "stars": 9523
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Design Resources for Developers",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261787758,
+                "language": null,
+                "last_commit": "2026-05-24T10:07:48Z",
+                "owner": "bradtraversy",
+                "repo": "design-resources-for-developers",
+                "stars": 66746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 261787758,
+                "language": null,
+                "last_commit": "2026-05-24T10:07:48Z",
+                "owner": "bradtraversy",
+                "repo": "design-resources-for-developers",
+                "stars": 66746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DevYouTubeList",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230327376,
+                "language": null,
+                "last_commit": "2024-06-13T13:12:23Z",
+                "owner": "ErikCH",
+                "repo": "DevYouTubeList",
+                "stars": 5049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230327376,
+                "language": null,
+                "last_commit": "2024-06-13T13:12:23Z",
+                "owner": "ErikCH",
+                "repo": "DevYouTubeList",
+                "stars": 5049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Programming Talks",
+              "description": "Awesome & interesting talks about programming No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29439879,
+                "language": "Python",
+                "last_commit": "2026-08-07T18:17:19Z",
+                "owner": "hellerve",
+                "repo": "programming-talks",
+                "stars": 7368
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CSS",
+              "description": "List of awesome CSS frameworks CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102095278,
+                "language": "CSS",
+                "last_commit": "2026-06-08T20:32:07Z",
+                "owner": "troxler",
+                "repo": "awesome-css-frameworks",
+                "stars": 9495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Electron",
+              "description": "Useful resources for creating apps with Electron CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 34453060,
+                "language": null,
+                "last_commit": "2026-05-03T11:29:47Z",
+                "owner": "sindresorhus",
+                "repo": "awesome-electron",
+                "stars": 27264
+              }
+            },
+            {
+              "node_type": "item",
+              "title": ".NET",
+              "description": "A collection of awesome .NET libraries, tools, frameworks and software CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21894635,
+                "language": null,
+                "last_commit": "2026-03-26T05:16:53Z",
+                "owner": "quozd",
+                "repo": "awesome-dotnet",
+                "stars": 21574
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Laravel",
+              "description": "A curated list of bookmarks, packages, tutorials, videos and other cool resources from the Laravel ecosystem CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22417801,
+                "language": null,
+                "last_commit": "2024-07-03T15:59:36Z",
+                "owner": "chiraggude",
+                "repo": "awesome-laravel",
+                "stars": 13094
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vue",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44571718,
+                "language": null,
+                "last_commit": "2026-07-24T10:16:04Z",
+                "owner": "vuejs",
+                "repo": "awesome-vue",
+                "stars": 73534
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44571718,
+                "language": null,
+                "last_commit": "2026-07-24T10:16:04Z",
+                "owner": "vuejs",
+                "repo": "awesome-vue",
+                "stars": 73534
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Frameworks"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Front End Web Development",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100615291,
+                "language": null,
+                "last_commit": "2024-06-24T10:38:36Z",
+                "owner": "RitikPatni",
+                "repo": "Front-End-Web-Development-Resources",
+                "stars": 5148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100615291,
+                "language": null,
+                "last_commit": "2024-06-24T10:38:36Z",
+                "owner": "RitikPatni",
+                "repo": "Front-End-Web-Development-Resources",
+                "stars": 5148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTML5",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21430176,
+                "language": null,
+                "last_commit": "2023-09-26T08:12:13Z",
+                "owner": "diegocard",
+                "repo": "awesome-html5",
+                "stars": 2803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21430176,
+                "language": null,
+                "last_commit": "2023-09-26T08:12:13Z",
+                "owner": "diegocard",
+                "repo": "awesome-html5",
+                "stars": 2803
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React",
+              "description": "Curated List of React Components & Libraries CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61893399,
+                "language": null,
+                "last_commit": "2026-01-26T16:36:45Z",
+                "owner": "brillout",
+                "repo": "awesome-react-components",
+                "stars": 48260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Animate CSS",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2561582,
+                "language": "CSS",
+                "last_commit": "2024-07-29T19:34:21Z",
+                "owner": "animate-css",
+                "repo": "animate.css",
+                "stars": 82746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 2561582,
+                "language": "CSS",
+                "last_commit": "2024-07-29T19:34:21Z",
+                "owner": "animate-css",
+                "repo": "animate.css",
+                "stars": 82746
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Front-End Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Flask - Python framework",
+              "description": "Flask is a lightweight WSGI web application framework written in Python. CC0-1.0 License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 203664833,
+                "language": null,
+                "last_commit": "2026-05-13T13:35:25Z",
+                "owner": "mjhea0",
+                "repo": "awesome-flask",
+                "stars": 1767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Docker",
+              "description": "🐳 A curated list of Docker resources and projects Apache-2.0 License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24297122,
+                "language": null,
+                "last_commit": "2026-08-19T15:33:40Z",
+                "owner": "veggiemonk",
+                "repo": "awesome-docker",
+                "stars": 36701
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vagrant",
+              "description": "A curated list of awesome Vagrant resources, plugins, tutorials and other nice things.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22462211,
+                "language": null,
+                "last_commit": "2020-10-08T13:38:09Z",
+                "owner": "iJackUA",
+                "repo": "awesome-vagrant",
+                "stars": 631
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Kubernetes",
+              "description": "A curated list for awesome kubernetes sources 🚢🎉 BY-NC 4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44315167,
+                "language": "Shell",
+                "last_commit": "2026-06-23T13:33:19Z",
+                "owner": "ramitsurana",
+                "repo": "awesome-kubernetes",
+                "stars": 16055
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Back-End Development"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Git And GitHub Guide",
+              "description": "A pictorial guide for learning Git and Github",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 147940887,
+                "language": null,
+                "last_commit": "2021-04-18T20:37:40Z",
+                "owner": "antonykidis",
+                "repo": "GitHub-guide",
+                "stars": 111
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Git & GitHub"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "C",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28008600,
+                "language": null,
+                "last_commit": "2025-12-27T08:35:04Z",
+                "owner": "oz123",
+                "repo": "awesome-c",
+                "stars": 11505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CC-BY-SA-4.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28008600,
+                "language": null,
+                "last_commit": "2025-12-27T08:35:04Z",
+                "owner": "oz123",
+                "repo": "awesome-c",
+                "stars": 11505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "C++",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21935031,
+                "language": null,
+                "last_commit": "2026-08-22T08:36:07Z",
+                "owner": "fffaraz",
+                "repo": "awesome-cpp",
+                "stars": 72908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21935031,
+                "language": null,
+                "last_commit": "2026-08-22T08:36:07Z",
+                "owner": "fffaraz",
+                "repo": "awesome-cpp",
+                "stars": 72908
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Go",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21540759,
+                "language": "Go",
+                "last_commit": "2026-08-21T06:27:18Z",
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 182112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21540759,
+                "language": "Go",
+                "last_commit": "2026-08-21T06:27:18Z",
+                "owner": "avelino",
+                "repo": "awesome-go",
+                "stars": 182112
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Java",
+              "description": "A curated list of awesome frameworks, libraries and software for the Java programming language CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21648001,
+                "language": null,
+                "last_commit": "2026-08-24T00:59:50Z",
+                "owner": "akullpp",
+                "repo": "awesome-java",
+                "stars": 48835
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JavaScript",
+              "description": "🐢 A collection of awesome browser-side JavaScript libraries, resources and shiny things CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21393871,
+                "language": null,
+                "last_commit": "2026-08-19T17:00:42Z",
+                "owner": "sorrycc",
+                "repo": "awesome-javascript",
+                "stars": 35021
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lua",
+              "description": "A curated list of quality Lua packages and resources. CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23039606,
+                "language": null,
+                "last_commit": "2024-08-11T17:32:00Z",
+                "owner": "LewisJEllis",
+                "repo": "awesome-lua",
+                "stars": 4555
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PHP",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14705691,
+                "language": null,
+                "last_commit": "2026-07-13T19:44:57Z",
+                "owner": "ziadoz",
+                "repo": "awesome-php",
+                "stars": 32672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WTFPL",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14705691,
+                "language": null,
+                "last_commit": "2026-07-13T19:44:57Z",
+                "owner": "ziadoz",
+                "repo": "awesome-php",
+                "stars": 32672
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Python",
+              "description": "A curated list of awesome Python frameworks, libraries, software and resources CC-BY-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21289110,
+                "language": "Python",
+                "last_commit": "2026-08-24T06:42:58Z",
+                "owner": "vinta",
+                "repo": "awesome-python",
+                "stars": 315800
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "R",
+              "description": "A curated list of awesome R packages, frameworks and software CC BY-NC-SA 4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22003158,
+                "language": "R",
+                "last_commit": "2025-09-18T16:46:19Z",
+                "owner": "qinwf",
+                "repo": "awesome-R",
+                "stars": 6507
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust",
+              "description": "A curated list of Rust code and resources CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21938243,
+                "language": "Rust",
+                "last_commit": "2026-08-24T07:28:27Z",
+                "owner": "rust-unofficial",
+                "repo": "awesome-rust",
+                "stars": 58957
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shell",
+              "description": "A curated list of awesome command-line frameworks, toolkits, guides and gizmos CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21552971,
+                "language": null,
+                "last_commit": "2025-08-28T14:40:51Z",
+                "owner": "alebcay",
+                "repo": "awesome-shell",
+                "stars": 37496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Swift",
+              "description": "A collaborative list of awesome Swift libraries and resources CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21696302,
+                "language": "Ruby",
+                "last_commit": "2026-08-03T13:15:16Z",
+                "owner": "matteocrippa",
+                "repo": "awesome-swift",
+                "stars": 26223
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "V",
+              "description": "A curated list of awesome V frameworks, libraries, software and resources. CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195092243,
+                "language": null,
+                "last_commit": "2026-08-15T15:21:51Z",
+                "owner": "vlang",
+                "repo": "awesome-v",
+                "stars": 2104
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Programming Languages"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "project ideas",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100784668,
+                "language": null,
+                "last_commit": "2023-03-13T16:28:22Z",
+                "owner": "NirantK",
+                "repo": "awesome-project-ideas",
+                "stars": 9285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 100784668,
+                "language": null,
+                "last_commit": "2023-03-13T16:28:22Z",
+                "owner": "NirantK",
+                "repo": "awesome-project-ideas",
+                "stars": 9285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "50projects50days",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313330998,
+                "language": "CSS",
+                "last_commit": "2025-02-26T13:49:39Z",
+                "owner": "bradtraversy",
+                "repo": "50projects50days",
+                "stars": 40629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 313330998,
+                "language": "CSS",
+                "last_commit": "2025-02-26T13:49:39Z",
+                "owner": "bradtraversy",
+                "repo": "50projects50days",
+                "stars": 40629
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Vanilla Web Projects",
+              "description": "Mini projects built with HTML5, CSS & JavaScript. No frameworks or libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236750354,
+                "language": "JavaScript",
+                "last_commit": "2024-03-28T13:15:34Z",
+                "owner": "bradtraversy",
+                "repo": "vanillawebprojects",
+                "stars": 16101
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "React Projects",
+              "description": "A collection of projects built on the React library [No License]",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115901925,
+                "language": "JavaScript",
+                "last_commit": "2024-08-19T13:05:55Z",
+                "owner": "ajayns",
+                "repo": "react-projects",
+                "stars": 1547
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Projects"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Hacking",
+              "description": "A collection of various awesome lists for hackers, pentesters and security researchers CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 55076063,
+                "language": null,
+                "last_commit": "2026-07-26T03:29:02Z",
+                "owner": "Hack-with-Github",
+                "repo": "Awesome-Hacking",
+                "stars": 118949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Web Security",
+              "description": "A curated list of Web Security materials and resources. CC0-1.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80358070,
+                "language": "Python",
+                "last_commit": "2026-08-21T13:51:02Z",
+                "owner": "qazbnm456",
+                "repo": "awesome-web-security",
+                "stars": 13726
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Security"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Grokking System Design",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285768990,
+                "language": "Shell",
+                "last_commit": "2024-03-06T16:24:47Z",
+                "owner": "Jeevan-kumar-Raj",
+                "repo": "Grokking-System-Design",
+                "stars": 6566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 285768990,
+                "language": "Shell",
+                "last_commit": "2024-03-06T16:24:47Z",
+                "owner": "Jeevan-kumar-Raj",
+                "repo": "Grokking-System-Design",
+                "stars": 6566
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "System Design Interview",
+              "description": "System design interview for IT companies No License",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19901248,
+                "language": null,
+                "last_commit": "2023-04-03T04:22:45Z",
+                "owner": "checkcheckzz",
+                "repo": "system-design-interview",
+                "stars": 23644
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "System Design Primer",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83222441,
+                "language": "Python",
+                "last_commit": "2026-03-20T01:52:19Z",
+                "owner": "donnemartin",
+                "repo": "system-design-primer",
+                "stars": 365726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CC-BY-SA-4.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83222441,
+                "language": "Python",
+                "last_commit": "2026-03-20T01:52:19Z",
+                "owner": "donnemartin",
+                "repo": "system-design-primer",
+                "stars": 365726
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "System Design Resources",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493934907,
+                "language": null,
+                "last_commit": "2025-07-16T22:41:39Z",
+                "owner": "InterviewReady",
+                "repo": "system-design-resources",
+                "stars": 18452
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GPL-3.0",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 493934907,
+                "language": null,
+                "last_commit": "2025-07-16T22:41:39Z",
+                "owner": "InterviewReady",
+                "repo": "system-design-resources",
+                "stars": 18452
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "System Design"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Proxy List",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89821812,
+                "language": null,
+                "last_commit": "2026-03-01T22:34:08Z",
+                "owner": "clarketm",
+                "repo": "proxy-list",
+                "stars": 2386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 89821812,
+                "language": null,
+                "last_commit": "2026-03-01T22:34:08Z",
+                "owner": "clarketm",
+                "repo": "proxy-list",
+                "stars": 2386
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Streaming",
+              "description": "a curated list of awesome streaming frameworks, applications, etc CC-BY-SA-4.0",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28163761,
+                "language": "JavaScript",
+                "last_commit": "2026-08-23T18:31:26Z",
+                "owner": "manuzhang",
+                "repo": "awesome-streaming",
+                "stars": 3007
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WPO",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25212911,
+                "language": null,
+                "last_commit": "2026-07-28T02:18:16Z",
+                "owner": "davidsonfellipe",
+                "repo": "awesome-wpo",
+                "stars": 9049
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MIT",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25212911,
+                "language": null,
+                "last_commit": "2026-07-28T02:18:16Z",
+                "owner": "davidsonfellipe",
+                "repo": "awesome-wpo",
+                "stars": 9049
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Web"
+        }
+      ],
+      "title": "▶️ Content"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-23T22:58:12.936Z",
+    "last_updated": "2026-08-24T14:31:08.286Z",
     "original_repository": "0xRitesh/awesome-repositories",
     "original_repository_id": 369996666,
     "original_repository_sha": "3c27f5a8e46279d2aeef1de6330b02ca9a01193d",
