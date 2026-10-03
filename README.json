@@ -8,7 +8,7 @@
             {
               "node_type": "item",
               "title": "Public-Apis",
-              "description": null,
+              "description": "public-apis/public-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -18,10 +18,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T22:24:14Z",
-                "open_issues": 1985,
+                "open_issues": 1989,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 485566,
+                "stars": 485599,
                 "topics": [
                   "api",
                   "apis",
@@ -43,7 +43,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "public-apis/public-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -53,10 +53,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T22:24:14Z",
-                "open_issues": 1985,
+                "open_issues": 1989,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 485566,
+                "stars": 485599,
                 "topics": [
                   "api",
                   "apis",
@@ -78,7 +78,7 @@
             {
               "node_type": "item",
               "title": "GraphQL-Apis",
-              "description": null,
+              "description": "APIs-guru/graphql-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -107,7 +107,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "public-apis/public-apis",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -117,10 +117,10 @@
                 "language": "Python",
                 "license": "MIT",
                 "last_commit": "2026-10-02T22:24:14Z",
-                "open_issues": 1985,
+                "open_issues": 1989,
                 "owner": "public-apis",
                 "repo": "public-apis",
-                "stars": 485566,
+                "stars": 485599,
                 "topics": [
                   "api",
                   "apis",
@@ -162,7 +162,7 @@
                 "open_issues": 22,
                 "owner": "josephmisiti",
                 "repo": "awesome-machine-learning",
-                "stars": 74510,
+                "stars": 74511,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:33.801Z"
@@ -170,7 +170,7 @@
             {
               "node_type": "item",
               "title": "handson-ml",
-              "description": null,
+              "description": "ageron/handson-ml2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -191,7 +191,7 @@
             {
               "node_type": "item",
               "title": "Apache-2.0",
-              "description": null,
+              "description": "ageron/handson-ml2",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -232,7 +232,7 @@
                 "open_issues": 106,
                 "owner": "sindresorhus",
                 "repo": "awesome",
-                "stars": 513752,
+                "stars": 513800,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -287,7 +287,7 @@
                 "open_issues": 85,
                 "owner": "EbookFoundation",
                 "repo": "free-programming-books",
-                "stars": 398335,
+                "stars": 398352,
                 "topics": [
                   "books",
                   "education",
@@ -314,7 +314,7 @@
                 "open_issues": 0,
                 "owner": "dariubs",
                 "repo": "GoBooks",
-                "stars": 19701,
+                "stars": 19702,
                 "topics": [
                   "awesome",
                   "awesome-go",
@@ -377,7 +377,7 @@
                 "open_issues": 33,
                 "owner": "hackerkid",
                 "repo": "Mind-Expanding-Books",
-                "stars": 14329,
+                "stars": 14331,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -470,7 +470,7 @@
                 "open_issues": 135,
                 "owner": "dypsilon",
                 "repo": "frontend-dev-bookmarks",
-                "stars": 47583,
+                "stars": 47585,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -490,7 +490,7 @@
             {
               "node_type": "item",
               "title": "Become A Full Stack Web Developer",
-              "description": null,
+              "description": "bmorelli25/Become-A-Full-Stack-Web-Developer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -511,7 +511,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "bmorelli25/Become-A-Full-Stack-Web-Developer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -532,7 +532,7 @@
             {
               "node_type": "item",
               "title": "Clean Code JavaScript",
-              "description": null,
+              "description": "ryanmcdermott/clean-code-javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -561,7 +561,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "ryanmcdermott/clean-code-javascript",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -603,7 +603,7 @@
                 "open_issues": 127,
                 "owner": "jwasham",
                 "repo": "coding-interview-university",
-                "stars": 362256,
+                "stars": 362263,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -624,7 +624,7 @@
             {
               "node_type": "item",
               "title": "Computer Science (OSSU)",
-              "description": null,
+              "description": "ossu/computer-science",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -637,7 +637,7 @@
                 "open_issues": 28,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 209697,
+                "stars": 209702,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -650,7 +650,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "ossu/computer-science",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -663,7 +663,7 @@
                 "open_issues": 28,
                 "owner": "ossu",
                 "repo": "computer-science",
-                "stars": 209697,
+                "stars": 209702,
                 "topics": [
                   "awesome-list",
                   "computer-science",
@@ -689,7 +689,7 @@
                 "open_issues": 65,
                 "owner": "prakhar1989",
                 "repo": "awesome-courses",
-                "stars": 71542,
+                "stars": 71549,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -702,7 +702,7 @@
             {
               "node_type": "item",
               "title": "Developer Roadmap",
-              "description": null,
+              "description": "nilbuild/developer-roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -715,7 +715,7 @@
                 "open_issues": 0,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 368734,
+                "stars": 368749,
                 "topics": [
                   "angular-roadmap",
                   "backend-roadmap",
@@ -742,7 +742,7 @@
             {
               "node_type": "item",
               "title": "Custom",
-              "description": null,
+              "description": "nilbuild/developer-roadmap",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -755,7 +755,7 @@
                 "open_issues": 0,
                 "owner": "nilbuild",
                 "repo": "developer-roadmap",
-                "stars": 368734,
+                "stars": 368749,
                 "topics": [
                   "angular-roadmap",
                   "backend-roadmap",
@@ -782,7 +782,7 @@
             {
               "node_type": "item",
               "title": "Easy Application",
-              "description": null,
+              "description": "j-delaney/easy-application",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -807,7 +807,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "j-delaney/easy-application",
               "children": [],
               "repo_info": {
                 "archived": true,
@@ -832,7 +832,7 @@
             {
               "node_type": "item",
               "title": "FrontEnd Developer Interview Questions",
-              "description": null,
+              "description": "h5bp/Front-end-Developer-Interview-Questions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -860,7 +860,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "h5bp/Front-end-Developer-Interview-Questions",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -888,7 +888,7 @@
             {
               "node_type": "item",
               "title": "Hiring Without Whiteboards",
-              "description": null,
+              "description": "poteto/hiring-without-whiteboards",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -901,7 +901,7 @@
                 "open_issues": 10,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 52311,
+                "stars": 52313,
                 "topics": [
                   "airtable",
                   "hiring",
@@ -917,7 +917,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "poteto/hiring-without-whiteboards",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -930,7 +930,7 @@
                 "open_issues": 10,
                 "owner": "poteto",
                 "repo": "hiring-without-whiteboards",
-                "stars": 52311,
+                "stars": 52313,
                 "topics": [
                   "airtable",
                   "hiring",
@@ -967,7 +967,7 @@
             {
               "node_type": "item",
               "title": "JavaScript Algorithms",
-              "description": null,
+              "description": "trekhleb/javascript-algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -980,7 +980,7 @@
                 "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196866,
+                "stars": 196867,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -997,7 +997,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "trekhleb/javascript-algorithms",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1010,7 +1010,7 @@
                 "open_issues": 408,
                 "owner": "trekhleb",
                 "repo": "javascript-algorithms",
-                "stars": 196866,
+                "stars": 196867,
                 "topics": [
                   "algorithm",
                   "algorithms",
@@ -1027,7 +1027,7 @@
             {
               "node_type": "item",
               "title": "Leetcode Patterns",
-              "description": null,
+              "description": "seanprashad/leetcode-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1040,7 +1040,7 @@
                 "open_issues": 1,
                 "owner": "seanprashad",
                 "repo": "leetcode-patterns",
-                "stars": 14058,
+                "stars": 14061,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -1056,7 +1056,7 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": null,
+              "description": "seanprashad/leetcode-patterns",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1069,7 +1069,7 @@
                 "open_issues": 1,
                 "owner": "seanprashad",
                 "repo": "leetcode-patterns",
-                "stars": 14058,
+                "stars": 14061,
                 "topics": [
                   "algorithms",
                   "data-structures",
@@ -1135,7 +1135,7 @@
                 "open_issues": 28,
                 "owner": "lnishan",
                 "repo": "awesome-competitive-programming",
-                "stars": 14204,
+                "stars": 14206,
                 "topics": [
                   "algorithm",
                   "awesome",
@@ -1156,7 +1156,7 @@
             {
               "node_type": "item",
               "title": "Competitive Code",
-              "description": null,
+              "description": "Vishruth-S/CompetitiveCode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1182,7 +1182,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "Vishruth-S/CompetitiveCode",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1208,7 +1208,7 @@
             {
               "node_type": "item",
               "title": "Competitive Programming Resources",
-              "description": null,
+              "description": "kunal-kushwaha/Competitive-Programming-Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1237,7 +1237,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "kunal-kushwaha/Competitive-Programming-Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1273,7 +1273,7 @@
             {
               "node_type": "item",
               "title": "Async-JavaScript",
-              "description": null,
+              "description": "frontarm/async-javascript-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1299,7 +1299,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "frontarm/async-javascript-cheatsheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1351,7 +1351,7 @@
             {
               "node_type": "item",
               "title": "Data Science",
-              "description": null,
+              "description": "FavioVazquez/ds-cheatsheets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1380,7 +1380,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "FavioVazquez/ds-cheatsheets",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1409,7 +1409,7 @@
             {
               "node_type": "item",
               "title": "Docker",
-              "description": null,
+              "description": "eon01/DockerCheatSheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1445,7 +1445,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "eon01/DockerCheatSheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1481,7 +1481,7 @@
             {
               "node_type": "item",
               "title": "Emoji",
-              "description": null,
+              "description": "ikatyang/emoji-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1507,7 +1507,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "ikatyang/emoji-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1533,7 +1533,7 @@
             {
               "node_type": "item",
               "title": "Git and GitHub",
-              "description": null,
+              "description": "tiimgreen/github-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1546,7 +1546,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59412,
+                "stars": 59418,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1560,7 +1560,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "tiimgreen/github-cheat-sheet",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1573,7 +1573,7 @@
                 "open_issues": 49,
                 "owner": "tiimgreen",
                 "repo": "github-cheat-sheet",
-                "stars": 59412,
+                "stars": 59418,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -1600,7 +1600,7 @@
                 "open_issues": 0,
                 "owner": "gto76",
                 "repo": "python-cheatsheet",
-                "stars": 38693,
+                "stars": 38692,
                 "topics": [
                   "cheatsheet",
                   "python",
@@ -1723,7 +1723,7 @@
             {
               "node_type": "item",
               "title": "GCP Training",
-              "description": null,
+              "description": "GoogleCloudPlatform/training-data-analyst",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1744,7 +1744,7 @@
             {
               "node_type": "item",
               "title": "Apache-2.0",
-              "description": null,
+              "description": "GoogleCloudPlatform/training-data-analyst",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1803,7 +1803,7 @@
             {
               "node_type": "item",
               "title": "Design Resources for Developers",
-              "description": null,
+              "description": "bradtraversy/design-resources-for-developers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1816,7 +1816,7 @@
                 "open_issues": 156,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67072,
+                "stars": 67073,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:33.801Z"
@@ -1824,7 +1824,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "bradtraversy/design-resources-for-developers",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1837,7 +1837,7 @@
                 "open_issues": 156,
                 "owner": "bradtraversy",
                 "repo": "design-resources-for-developers",
-                "stars": 67072,
+                "stars": 67073,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:33.801Z"
@@ -1845,7 +1845,7 @@
             {
               "node_type": "item",
               "title": "DevYouTubeList",
-              "description": null,
+              "description": "ErikCH/DevYouTubeList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1866,7 +1866,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "ErikCH/DevYouTubeList",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -1962,7 +1962,7 @@
                 "open_issues": 7,
                 "owner": "sindresorhus",
                 "repo": "awesome-electron",
-                "stars": 27299,
+                "stars": 27301,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2016,7 +2016,7 @@
                 "open_issues": 93,
                 "owner": "chiraggude",
                 "repo": "awesome-laravel",
-                "stars": 13110,
+                "stars": 13111,
                 "topics": [
                   "awesome",
                   "laravel",
@@ -2028,7 +2028,7 @@
             {
               "node_type": "item",
               "title": "Vue",
-              "description": null,
+              "description": "vuejs/awesome-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2049,7 +2049,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "vuejs/awesome-vue",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2077,7 +2077,7 @@
             {
               "node_type": "item",
               "title": "Front End Web Development",
-              "description": null,
+              "description": "RitikPatni/Front-End-Web-Development-Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2117,7 +2117,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "RitikPatni/Front-End-Web-Development-Resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2157,7 +2157,7 @@
             {
               "node_type": "item",
               "title": "HTML5",
-              "description": null,
+              "description": "diegocard/awesome-html5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2182,7 +2182,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "diegocard/awesome-html5",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2220,7 +2220,7 @@
                 "open_issues": 98,
                 "owner": "brillout",
                 "repo": "awesome-react-components",
-                "stars": 48534,
+                "stars": 48537,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2234,7 +2234,7 @@
             {
               "node_type": "item",
               "title": "Animate CSS",
-              "description": null,
+              "description": "animate-css/animate.css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2247,7 +2247,7 @@
                 "open_issues": 80,
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 82844,
+                "stars": 82845,
                 "topics": [
                   "animation",
                   "css",
@@ -2260,7 +2260,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "animate-css/animate.css",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2273,7 +2273,7 @@
                 "open_issues": 80,
                 "owner": "animate-css",
                 "repo": "animate.css",
-                "stars": 82844,
+                "stars": 82845,
                 "topics": [
                   "animation",
                   "css",
@@ -2332,7 +2332,7 @@
                 "open_issues": 47,
                 "owner": "veggiemonk",
                 "repo": "awesome-docker",
-                "stars": 36945,
+                "stars": 36949,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2399,7 +2399,7 @@
                 "open_issues": 94,
                 "owner": "ramitsurana",
                 "repo": "awesome-kubernetes",
-                "stars": 16107,
+                "stars": 16108,
                 "topics": [
                   "aws",
                   "azure",
@@ -2461,7 +2461,7 @@
             {
               "node_type": "item",
               "title": "C",
-              "description": null,
+              "description": "oz123/awesome-c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2474,7 +2474,7 @@
                 "open_issues": 106,
                 "owner": "oz123",
                 "repo": "awesome-c",
-                "stars": 11584,
+                "stars": 11585,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2487,7 +2487,7 @@
             {
               "node_type": "item",
               "title": "CC-BY-SA-4.0",
-              "description": null,
+              "description": "oz123/awesome-c",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2500,7 +2500,7 @@
                 "open_issues": 106,
                 "owner": "oz123",
                 "repo": "awesome-c",
-                "stars": 11584,
+                "stars": 11585,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2513,7 +2513,7 @@
             {
               "node_type": "item",
               "title": "C++",
-              "description": null,
+              "description": "fffaraz/awesome-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2526,7 +2526,7 @@
                 "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73576,
+                "stars": 73584,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2547,7 +2547,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "fffaraz/awesome-cpp",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2560,7 +2560,7 @@
                 "open_issues": 311,
                 "owner": "fffaraz",
                 "repo": "awesome-cpp",
-                "stars": 73576,
+                "stars": 73584,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2581,7 +2581,7 @@
             {
               "node_type": "item",
               "title": "Go",
-              "description": null,
+              "description": "avelino/awesome-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2594,7 +2594,7 @@
                 "open_issues": 234,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186624,
+                "stars": 186650,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2609,7 +2609,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "avelino/awesome-go",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2622,7 +2622,7 @@
                 "open_issues": 234,
                 "owner": "avelino",
                 "repo": "awesome-go",
-                "stars": 186624,
+                "stars": 186650,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2650,7 +2650,7 @@
                 "open_issues": 10,
                 "owner": "akullpp",
                 "repo": "awesome-java",
-                "stars": 49141,
+                "stars": 49144,
                 "topics": [
                   "awesome",
                   "awesome-list"
@@ -2703,7 +2703,7 @@
             {
               "node_type": "item",
               "title": "PHP",
-              "description": null,
+              "description": "ziadoz/awesome-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2716,7 +2716,7 @@
                 "open_issues": 94,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32721,
+                "stars": 32722,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -2732,7 +2732,7 @@
             {
               "node_type": "item",
               "title": "WTFPL",
-              "description": null,
+              "description": "ziadoz/awesome-php",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2745,7 +2745,7 @@
                 "open_issues": 94,
                 "owner": "ziadoz",
                 "repo": "awesome-php",
-                "stars": 32721,
+                "stars": 32722,
                 "topics": [
                   "awesome",
                   "awesome-lists",
@@ -2771,10 +2771,10 @@
                 "language": "Python",
                 "license": "NOASSERTION",
                 "last_commit": "2026-10-02T12:01:28Z",
-                "open_issues": 20,
+                "open_issues": 21,
                 "owner": "vinta",
                 "repo": "awesome-python",
-                "stars": 324757,
+                "stars": 324781,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2802,7 +2802,7 @@
                 "open_issues": 28,
                 "owner": "qinwf",
                 "repo": "awesome-R",
-                "stars": 6515,
+                "stars": 6516,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2831,7 +2831,7 @@
                 "open_issues": 9,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59649,
+                "stars": 59657,
                 "topics": [
                   "awesome",
                   "rust"
@@ -2855,7 +2855,7 @@
                 "open_issues": 188,
                 "owner": "alebcay",
                 "repo": "awesome-shell",
-                "stars": 37704,
+                "stars": 37708,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2939,7 +2939,7 @@
             {
               "node_type": "item",
               "title": "project ideas",
-              "description": null,
+              "description": "NirantK/awesome-project-ideas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2952,7 +2952,7 @@
                 "open_issues": 7,
                 "owner": "NirantK",
                 "repo": "awesome-project-ideas",
-                "stars": 9329,
+                "stars": 9330,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -2971,7 +2971,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "NirantK/awesome-project-ideas",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -2984,7 +2984,7 @@
                 "open_issues": 7,
                 "owner": "NirantK",
                 "repo": "awesome-project-ideas",
-                "stars": 9329,
+                "stars": 9330,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3003,7 +3003,7 @@
             {
               "node_type": "item",
               "title": "50projects50days",
-              "description": null,
+              "description": "bradtraversy/50projects50days",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3016,7 +3016,7 @@
                 "open_issues": 48,
                 "owner": "bradtraversy",
                 "repo": "50projects50days",
-                "stars": 40645,
+                "stars": 40646,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:33.801Z"
@@ -3024,7 +3024,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "bradtraversy/50projects50days",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3037,7 +3037,7 @@
                 "open_issues": 48,
                 "owner": "bradtraversy",
                 "repo": "50projects50days",
-                "stars": 40645,
+                "stars": 40646,
                 "topics": []
               },
               "first_seen": "2026-08-28T06:21:33.801Z"
@@ -3113,7 +3113,7 @@
                 "open_issues": 43,
                 "owner": "Hack-with-Github",
                 "repo": "Awesome-Hacking",
-                "stars": 121722,
+                "stars": 121733,
                 "topics": [
                   "android",
                   "awesome",
@@ -3141,10 +3141,10 @@
                 "language": "Python",
                 "license": null,
                 "last_commit": "2026-09-14T12:46:56Z",
-                "open_issues": 14,
+                "open_issues": 13,
                 "owner": "qazbnm456",
                 "repo": "awesome-web-security",
-                "stars": 13840,
+                "stars": 13842,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3167,7 +3167,7 @@
             {
               "node_type": "item",
               "title": "Grokking System Design",
-              "description": null,
+              "description": "Jeevan-kumar-Raj/Grokking-System-Design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3188,7 +3188,7 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": null,
+              "description": "Jeevan-kumar-Raj/Grokking-System-Design",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3237,7 +3237,7 @@
             {
               "node_type": "item",
               "title": "System Design Primer",
-              "description": null,
+              "description": "donnemartin/system-design-primer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3250,7 +3250,7 @@
                 "open_issues": 623,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 372968,
+                "stars": 372979,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -3272,7 +3272,7 @@
             {
               "node_type": "item",
               "title": "CC-BY-SA-4.0",
-              "description": null,
+              "description": "donnemartin/system-design-primer",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3285,7 +3285,7 @@
                 "open_issues": 623,
                 "owner": "donnemartin",
                 "repo": "system-design-primer",
-                "stars": 372968,
+                "stars": 372979,
                 "topics": [
                   "design",
                   "design-patterns",
@@ -3307,7 +3307,7 @@
             {
               "node_type": "item",
               "title": "System Design Resources",
-              "description": null,
+              "description": "InterviewReady/system-design-resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3333,7 +3333,7 @@
             {
               "node_type": "item",
               "title": "GPL-3.0",
-              "description": null,
+              "description": "InterviewReady/system-design-resources",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3366,7 +3366,7 @@
             {
               "node_type": "item",
               "title": "Proxy List",
-              "description": null,
+              "description": "clarketm/proxy-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3391,7 +3391,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "clarketm/proxy-list",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3429,7 +3429,7 @@
                 "open_issues": 7,
                 "owner": "manuzhang",
                 "repo": "awesome-streaming",
-                "stars": 3019,
+                "stars": 3020,
                 "topics": [
                   "awesome",
                   "awesome-list",
@@ -3442,7 +3442,7 @@
             {
               "node_type": "item",
               "title": "WPO",
-              "description": null,
+              "description": "davidsonfellipe/awesome-wpo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3470,7 +3470,7 @@
             {
               "node_type": "item",
               "title": "MIT",
-              "description": null,
+              "description": "davidsonfellipe/awesome-wpo",
               "children": [],
               "repo_info": {
                 "archived": false,
@@ -3505,7 +3505,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T01:27:08.757Z",
+    "last_updated": "2026-10-03T05:03:48.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "Useful GitHub Repos That Every Developer Should Follow",
